@@ -1,3 +1,3 @@
 # QA-automation-script
 
-## For this project you are required to install chromwebdriver to enable process 
+## For this project you are required to install chromewebdriver to enable process 
